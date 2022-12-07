@@ -1,0 +1,1 @@
+Nathan Brun et Julien Adamie m'ont aidé sur certaine fonction sur les quelle je bloquais.
